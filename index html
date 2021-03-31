@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Progate</title>
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="header-left">
+        <h1>本日の晩ご飯</h1>
+      </div>
+      <span class="fa fa-bars menu-icon"></span>
+      <div class="header-right">
+        <a href="#"></a>
+        <a href="#">新規登録</a>
+        <a href="#" class="login">ログイン</a>
+      </div>
+    </div>
+  </header>
+  <div class="top-wrapper">
+    <div class="container">
+      <h1>フードロスを減らそう！<br>冷蔵庫の余り物で作る</h1>
+      <p>P毎日の献立を考えるかわりに<br>晩御飯何がいい</p>
+      <div class="btn-wrapper">
+        <a href="#" class="btn signup">冷蔵庫の中身を見る</a>
+        
+       
+      </div>
+    </div>
+  </div>
+  <div class="lesson-wrapper">
+    <div class="container">
+      <div class="heading">
+        <h2>四季折々の食材</h2>
+      </div>
+      <div class="lessons">
+        <div class="lesson">
+          <div class="lesson-icon">
+            <img src="https://prog-8.com/images/html/advanced/html.png">
+            <p>春</p>
+          </div>
+          <p class="text-contents">春キャベツやアスパラが旬</p>
+        </div>
+        <div class="lesson">
+          <div class="lesson-icon">
+            <img src="https://prog-8.com/images/html/advanced/jQuery.png">
+            <p>夏</p>
+          </div>
+          <p class="text-contents">きゅうりやトマトが旬</p>
+        </div>
+        <div class="lesson">
+          <div class="lesson-icon">
+            <img src="https://prog-8.com/images/html/advanced/ruby.png">
+            <p>秋</p>
+          </div>
+          <p class="text-contents">さつまいもや椎茸が旬
+          </p>
+        </div>
+        <div class="lesson">
+          <div class="lesson-icon">
+            <img src="https://prog-8.com/images/html/advanced/php.png">
+            <p>冬</p>
+          </div>
+          <p class="text-contents">小松菜、ほうれん草や白菜が旬</p>
+        </div>
+      </div>
+      <div class="clear"></div>
+    </div>
+  </div>
+  <div class="message-wrapper">
+    <div class="container">
+      <div class="heading">
+        <h2>身体に良い栄養素をしっかり取りませんか?</h2>
+        <h3>栄養を考えて料理をしてみましょう！</h3>
+      </div>
+      <span class="btn message">さっそく料理する</span>
+    </div>
+  </div>
+  <footer>
+    <div class="container">
+      <h1>本日の晩ご飯</h1>
+      <p>Learn to cook,let's enjoy cooking.</p>
+    </div>
+  </footer>
+</body>
+</html>
